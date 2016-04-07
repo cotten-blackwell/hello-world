@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Completing this "Hello, World!" GitHub tutorial for my HoloLens class...
+
